@@ -1,0 +1,4 @@
+-  I’m @Utoog, (alt. rivus)
+- .I've been learning Python for some time and i want to learn more!
+- Currently learning: C++
+- Planning to learn: NodeJS
