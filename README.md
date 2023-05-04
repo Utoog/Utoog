@@ -1,4 +1,7 @@
--  I’m @Utoog, (alt. rivus)
-- .I've been learning Python for some time and i want to learn more!
+# Utoog/Rivus
+- 19 years old
+- A programming student
+- I like interesting, but impractical stuff
+- Known languages: Python
 - Currently learning: C++
-- Planning to learn: NodeJS
+- Planning to learn: JavaScript, TypeScript, Go, Flatter and some more.
