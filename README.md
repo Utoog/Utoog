@@ -4,4 +4,4 @@
 - I like interesting, but impractical stuff
 - Known languages: Python
 - Currently learning: C++
-- Planning to learn: JavaScript, TypeScript, Go, Flatter and some more.
+- Planning to learn: idk
