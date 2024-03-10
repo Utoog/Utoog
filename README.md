@@ -1,7 +1,7 @@
 # Utoog/Rivus
-- 19 years old
+- 1920 years old
 - A programming student
 - I like interesting, but impractical stuff
-- Known languages: Python
+- Known languages: Python (sorta)
 - Currently learning: C++
 - Planning to learn: idk
